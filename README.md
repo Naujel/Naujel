@@ -16,3 +16,4 @@ Habilidades en programación:
 * JavaScript ES6
 * HTML5 / CSS
 * MySQL
+* Git
