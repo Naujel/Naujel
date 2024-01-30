@@ -12,7 +12,6 @@ Certificaciones:
 Habilidades en programación:
 
 * Python
-* Java
 * JavaScript ES6
 * HTML5 / CSS
 * MySQL
