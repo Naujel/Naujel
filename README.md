@@ -8,7 +8,7 @@ Certificaciones:
 * Cisco Certified Network Associate - CCNA
 * Huawei Certified ICT Associate Datacom - HCIA Datacom V1.0
 * AWS Certified Cloud Practitioner - AWS CCP
-* * AWS Certified Solutions Architect Associate - AWS CCP
+* AWS Certified Solutions Architect Associate - AWS CCP
 
 Habilidades en programación:
 
