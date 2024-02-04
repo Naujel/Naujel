@@ -17,3 +17,4 @@ Habilidades en programación:
 * HTML5 / CSS
 * MySQL
 * Git
+* Flask
