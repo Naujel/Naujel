@@ -12,9 +12,8 @@ Certificaciones:
 
 Habilidades en programación:
 
-* Python
+* Python/Flask
 * JavaScript ES6
 * HTML5 / CSS
 * MySQL
 * Git
-* Flask
